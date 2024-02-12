@@ -1,0 +1,25 @@
+PRIVATE SNI :
+
+************************************************
+
+sudo apt update
+
+mkdir docker && cd docker
+
+wget https://library.ahadiani.ca/install_docker_nproxyman.sh
+
+chmod +x install_docker_nproxyman.sh
+
+./install_docker_nproxyman.sh
+
+
+
+  
+
+    The default login credentials for NGinX Proxy Manager are:
+        username: admin@example.com
+        password: changeme
+
+81
+
+9000
